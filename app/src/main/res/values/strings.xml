@@ -1,0 +1,27 @@
+<resources>
+
+    <!--fragment_preferences-->
+    <string name="app_name">YeelightControl</string>
+
+    <string name="select_ssid">Choose SSID</string>
+    <string name="selected_ssid">Chosen SSID</string>
+
+    <string name="select_bulb">Choose bulb</string>
+    <string name="selected_bulb">Chosen bulb</string>
+
+    <string name="sampling_rate">Sampling rate</string>
+
+    <string name="threshold">Threshold</string>
+    <string name="enter_threshold">200</string>
+    <string name="start_tracking">Start tracking</string>
+    <string name="stop_tracking">Stop tracking</string>
+
+    <!--dialog_fragment_select_ssid-->
+    <string name="select_ssid_from_list">Select SSID to measure</string>
+    <string name="update_ssids">Update</string>
+
+    <!--dialog_fragment_select_bulb-->
+    <string name="select_bulb_from_list">Select bulb to measure</string>
+    <string name="update_bulbs">Update</string>
+
+</resources>
